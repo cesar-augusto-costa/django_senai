@@ -1,13 +1,13 @@
 ![Green Retro Vintage Oak Tree Logo (Capa para Facebook) (1640 × 200 px)](markedown/img/capa_face.png)
-# Projeto desenvolvido no curso do Senai<br>Python com Framework.
+# Projeto desenvolvido no curso do Senai<br><br>Python com Framework.
 
 ## Ferramentas utilizadas
 
 :heavy_check_mark: <b>Python</b><br>
-Linguagem de programação utilizada para programar.<br>
+Linguagem de programação.<br>
 
 :heavy_check_mark: <b>Django</b><br>
-Framework de Python para renderização de páginas web e várias funções.<br>
+Framework de Python para renderização de páginas web.<br>
 
 ---
 
@@ -43,7 +43,7 @@ git clone https://github.com/cesar-augusto-costa/django_senai.git
 
 ### 3 - Alteração da Política de Execução, caso der erro na criação do venv.
 
-- Executar o ´Windows PowerShell´ no modo *Administrador* com o botão direito do mouse.
+- Executar o `Windows PowerShell` no modo *Administrador* com o botão direito do mouse.
 
 - Executar o comando:
 ```
