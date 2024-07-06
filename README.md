@@ -23,7 +23,7 @@ Framework de Python para renderização de páginas web e várias funções.<br>
 
 ## Como utilizar o Projeto
 
-### 1-Pré-requisitos
+### 1 - Pré-requisitos
 
 O projeto foi desenvolvido dentro do VSCode<br>
 
@@ -35,13 +35,13 @@ O projeto foi desenvolvido dentro do VSCode<br>
 
 - Selecionar Interpretador Python e não o Anaconda.
 
-### 2-Baixar o arquivo do GitHub e Abrir a pasta com VS Code
+### 2 - Baixar o arquivo do GitHub e Abrir a pasta com VS Code
 
 ```
 git clone https://github.com/cesar-augusto-costa/django_senai.git
 ```
 
-### 3-Alteração da Política de Execução, caso der erro na criação do venv.
+### 3 - Alteração da Política de Execução, caso der erro na criação do venv.
 
 - Executar o ´Windows PowerShell´ no modo *Administrador* com o botão direito do mouse.
 
@@ -51,7 +51,7 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ```
 - Aceitar a alteração: S
 
-### 4-Criar o Ambiente Virtual e Instalar Dependências pelo Terminal
+### 4 - Criar o Ambiente Virtual e Instalar Dependências pelo Terminal
 
 - Criar o Ambiente Virtual no Windows
 ```
@@ -88,6 +88,17 @@ pip install -r requirements.txt
 pip freeze > requirements.txt
 ```
 
+### 5 - Visualizar o Projeto
+
+- Rodar o servidor
+
+```
+python manage.py runserver
+```
+
+- Clicar em cima do endereço HTTP com CTRL.
+
+- Para parar o servidor use CTRL + C no Terminal
 
 
 
